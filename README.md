@@ -8,7 +8,7 @@
    
    [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 3. Создать проект в IDEA на базе Gradle.
-4. Склонировать [репозиторий]();
+4. Склонировать [репозиторий](https://github.com/Kostya5885/Java_Project);
 
 ### **Для запуска MySQL**
 
