@@ -28,8 +28,8 @@
 
 ### Документация
 
-[План автоматизации тестирования]()
+[План автоматизации тестирования](https://github.com/Kostya5885/Java_Project/blob/master/documents/Plan.md)
 
-[Отчёт о проведённом тестировании]()
+[Отчёт о проведённом тестировании](https://github.com/Kostya5885/Java_Project/blob/master/documents/Report.md)
 
-[Отчёт о проведённой автоматизации]()
+[Отчёт о проведённой автоматизации](https://github.com/Kostya5885/Java_Project/blob/master/documents/Summary.md)
